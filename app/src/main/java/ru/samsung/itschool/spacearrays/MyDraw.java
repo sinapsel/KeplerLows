@@ -8,6 +8,7 @@ import android.graphics.Color;
 import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.util.AttributeSet;
+import android.view.MotionEvent;
 import android.view.View;
 
 public class MyDraw extends View {
@@ -17,20 +18,28 @@ public class MyDraw extends View {
 		makeSky();
 		this.rocket = new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket));
 		this.rocket2 = new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket));
+		this.crck = new CtrlRocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket));
+	}
+
+	@Override
+	public boolean onTouchEvent(MotionEvent event) {
+		crck.setTarget(event.getX(), event.getY());
+		return super.onTouchEvent(event);
 	}
 
 	Rocket rocket, rocket2;
-
+	CtrlRocket crck;
 
 	Paint paint = new Paint();
 	@Override
 	protected void onDraw(Canvas canvas) {
-		
 		drawSky(canvas);
 		rocket.draw(canvas);
-		rocket2.draw(canvas);
+		//rocket2.draw(canvas);
 		rocket.move();
-		rocket2.move();
+		//rocket2.move();
+		crck.draw(canvas);
+		crck.move();
 		// Запрос на перерисовку экрана
 		invalidate();
 	}

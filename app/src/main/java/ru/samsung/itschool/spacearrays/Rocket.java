@@ -6,8 +6,17 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 
 public class Rocket {
-    float x, y, vx, vy;
+    private float x, y, vx, vy;
     Bitmap pic;
+
+    protected float getX(){return x;}
+    protected float getY(){return y;}
+    protected float getVX(){return vx;}
+    protected float getVY(){return vy;}
+    protected void setX(float x){this.x = x;}
+    protected void setY(float y){this.y = y;}
+    protected void setVX(float vx){this.vx = vx;}
+    protected void setVY(float vy){this.vy = vy;}
 
     Rocket(Bitmap pic){
         this.x = (float)(Math.random()*500);
