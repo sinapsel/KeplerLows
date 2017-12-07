@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 375
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -26,7 +52,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -38,14 +64,14 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/home/dementor/AndroidStudioProjects/KeplerLows/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 227,
+                        "startOffset": 220,
                         "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 375
+                        "endOffset": 366
                     }
                 }
             }

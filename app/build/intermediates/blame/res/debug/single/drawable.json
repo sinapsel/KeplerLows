@@ -1,10 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
-        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\src\\main\\res\\drawable\\rocket.png"
+        "merged": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
+        "source": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\src\\main\\res\\drawable\\rocket.png"
     },
     {
-        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
-        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\SpaceArrays\\app\\src\\main\\res\\drawable\\rocket.png"
+        "merged": "/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/merged/debug/drawable/star.jpg",
+        "source": "/home/dementor/AndroidStudioProjects/KeplerLows/app/src/main/res/drawable/star.jpg"
+    },
+    {
+        "merged": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rocket.png",
+        "source": "/home/dementor/AndroidStudioProjects/KeplerLows/C:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\src\\main\\res\\drawable\\rocket.png"
+    },
+    {
+        "merged": "/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/merged/debug/drawable/sattelite.jpg",
+        "source": "/home/dementor/AndroidStudioProjects/KeplerLows/app/src/main/res/drawable/sattelite.jpg"
+    },
+    {
+        "merged": "/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/merged/debug/drawable/rocket.png",
+        "source": "/home/dementor/AndroidStudioProjects/KeplerLows/app/src/main/res/drawable/rocket.png"
     }
 ]

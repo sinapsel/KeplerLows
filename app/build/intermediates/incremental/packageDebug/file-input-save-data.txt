@@ -1,21 +1,27 @@
 #Internal package file, do not edit.
-#Fri Oct 27 15:23:07 EET 2017
-2.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-5.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+#Fri Dec 08 01:07:57 MSK 2017
+2.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
 5.set=ANDROID_RESOURCE
-3.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_
-2.set=DEX
-4.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_
-count=6
-0.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
-5.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
 4.set=ANDROID_RESOURCE
-1.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/res/drawable/star.jpg
 1.set=ANDROID_RESOURCE
-2.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
-0.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\rocket.png
+7.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/res/drawable/sattelite.jpg
 3.set=ANDROID_RESOURCE
-1.base=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=C\:\\Users\\vv\\AndroidStudioProjects\\SpaceArraysOOP\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-0.set=ANDROID_RESOURCE
+1.base=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/dementor/AndroidStudioProjects/KeplerLows/app/build/intermediates/res/resources-debug.ap_/res/drawable/rocket.png
+0.set=DEX
